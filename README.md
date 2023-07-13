@@ -19,7 +19,7 @@ The following functionality is completed:
 
 
 
-<img src='https://j.gifs.com/VvDVXW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://j.gifs.com/VvDVXW.gif' title='Video Walkthrough' width='' height='750px' alt='Video Walkthrough' />
 
 
 ## Notes
